@@ -14,10 +14,15 @@ Objective: To create a user-friendly web application that simplifies flight book
 
 ## Key Features
 
-Flight Search: Easily browse and compare flights from multiple agencies.
-Effortless Booking: Streamlined booking process for quick reservations.
-Flight Tracking: Real-time updates on your flights.
-Chat Bot Assistant: Instant assistance and answers to your travel queries.
-User Dashboard: A personalized space to manage your bookings and notifications.
+#### Flight Search: 
+Easily browse and compare flights from multiple agencies.
+#### Effortless Booking: 
+Streamlined booking process for quick reservations.
+#### Flight Tracking: 
+Real-time updates on your flights.
+#### Chat Bot Assistant: 
+Instant assistance and answers to your travel queries.
+#### User Dashboard: 
+A personalized space to manage your bookings and notifications.
 
 
