@@ -29,7 +29,7 @@ A personalized space to manage your bookings and notifications.
 
 To get this project up and running, follow these steps:
 1. Clone the repository using this command in your Terminal or any command line interface:
-   ###### git clone https://github.com/KarimPortfolio/Moroccan-Airways-Backend/
+  git clone https://github.com/KarimPortfolio/Moroccan-Airways-Backend/
 2. You will need PHP 8 or later versions of PHP.
 3. Install Composer dependencies: `composer install`
 4. Create a copy of the `.env.example` file and rename it to `.env`. Update the necessary configuration variables.
@@ -40,7 +40,7 @@ To get this project up and running, follow these steps:
 ## Usage
 
 You can run the application and start the server by using this command in your CLI:
-###### php artisan serve
+php artisan serve
 
 After that you will need to copy the link: http://localhost:8000
 and use it in your browser.
