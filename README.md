@@ -55,16 +55,6 @@ and use it in your browser.
 ##### PHP 8.0
 - PHP, which stands for "PHP: Hypertext Preprocessor," is a widely-used, open-source server-side scripting language primarily designed for web development.
 
-##### Livewire
-- Livewire is an open-source, full-stack web framework for building interactive and dynamic web applications using Laravel and PHP.
-
-##### Jetstraim
-
--Jetstream is a starter kit for the Laravel PHP framework, designed to simplify the process of starting a new Laravel project and provides pre-built authentication, user management, and other components.
-
-##### Stripe payments
-
--Stripe is a widely used online payment processing platform and API that enables businesses and individuals to send and receive payments over the internet. It provides a suite of tools and services for handling online transactions, including payments, subscriptions, and various financial operations.
 
 ##### MySQL
 
