@@ -12,6 +12,20 @@ Moroccan Airways is a user-friendly web application that provides users with all
 
 Objective: To create a user-friendly web application that simplifies flight booking and management, providing a seamless travel experience.
 
+## Table of Contents
+
+1. [Project Title](#project-title)
+2. [Project Description](#project-description)
+3. [Table of Contents](#table-of-contents)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Features](#features)
+7. [Technologies Used](#technologies-used)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Acknowledgments](#acknowledgments)
+11. [Contact](#contact)
+
 ## Key Features
 
 #### Flight Search: 
@@ -25,4 +39,7 @@ Instant assistance and answers to your travel queries.
 #### User Dashboard: 
 A personalized space to manage your bookings and notifications.
 
+## Moroccan Airways Backend:
+
+This repo contines all the folders and files use in the developpment period of Moroccan Airways project in the server side
 
